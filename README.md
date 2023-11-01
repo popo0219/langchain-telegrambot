@@ -50,7 +50,7 @@ allowing users to find relevant information in a collection of documents.
 2. Clone the repository
 
 ```bash
-git clone https://github.com/shamspias/langchain-chat.git
+git clone https://github.com/supercrusher/langchain-telegrambot.git
 cd langchain-chat
 ```
 
